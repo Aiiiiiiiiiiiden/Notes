@@ -1,2 +1,2 @@
 # Notes
-Notes about iOS Development, GitFlow and CICD
+About iOS Development, GitFlow and CICD
